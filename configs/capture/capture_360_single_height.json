@@ -1,0 +1,15 @@
+{
+  "vehicle_blueprint": "vehicle.tesla.model3",
+  "spawn_point_index": 126,
+  "views": 360,
+  "radius_m": 7.0,
+  "camera_height_above_target_m": 1.5,
+  "image_width": 1280,
+  "image_height": 720,
+  "fov_degrees": 70.0,
+  "fixed_delta_seconds": 0.05,
+  "vehicle_settle_frames": 20,
+  "camera_warmup_frames": 3,
+  "sensor_timeout_seconds": 10.0,
+  "weather": "ClearNoon"
+}

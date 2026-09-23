@@ -1,0 +1,19 @@
+{
+  "vehicle_blueprint": "vehicle.tesla.model3",
+  "map_name": "Town04",
+  "spawn_point_index": 332,
+  "views_per_height": 60,
+  "camera_height_levels_m": [0.5, 1.1, 1.7, 2.3, 2.9, 3.5],
+  "angle_offset_per_height_degrees": [0.0, 1.0, 2.0, 3.0, 4.0, 5.0],
+  "radius_m": 5.0,
+  "look_at_z_offsets_m": [-0.20, -0.30, -0.45, -0.60, -0.70, -0.75],
+  "image_width": 1280,
+  "image_height": 720,
+  "fov_degrees": 60.0,
+  "capture_semantic_vehicle_mask": true,
+  "fixed_delta_seconds": 0.05,
+  "vehicle_settle_frames": 20,
+  "camera_warmup_frames": 3,
+  "sensor_timeout_seconds": 10.0,
+  "weather": "ClearNoon"
+}

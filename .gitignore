@@ -1,0 +1,58 @@
+# Machine-local configuration and secrets
+configs/paths.env
+.env
+.env.*
+!.env.example
+
+# Generated datasets, models, and logs
+datasets/
+outputs/
+logs/
+artifacts/
+checkpoints/
+
+# Common large reconstruction/model files
+*.db
+*.sqlite
+*.sqlite3
+*.ply
+*.pcd
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# Generated images and videos
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Native/CUDA build output
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+*.a
+
+# Editors and operating systems
+.idea/
+.vscode/
+*~
+.DS_Store
+
+# Downloaded third-party source trees
+third_party/
