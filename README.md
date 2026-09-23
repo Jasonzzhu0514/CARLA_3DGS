@@ -127,3 +127,8 @@ name for each run so that inputs, outputs, and logs remain traceable.
   masked-loss experiments.
 - Evaluation renders training-camera views. A separate held-out capture is required to measure
   novel-view generalization.
+
+## License
+
+This project's original code and documentation are licensed under the [MIT License](LICENSE).
+Third-party software and dependencies, including CARLA and LiteGS, remain subject to their own licenses.
