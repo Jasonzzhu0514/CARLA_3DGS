@@ -1,4 +1,4 @@
-# CARLA Multi-view 3D Gaussian Splatting Pipeline
+# CARLA_3DGS
 
 This repository provides a reproducible simulation pipeline for collecting multi-view vehicle
 images in CARLA, estimating camera poses with COLMAP, and training a 3D Gaussian Splatting model
